@@ -1,44 +1,25 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="n0xdev — céu noturno, lua e uma chave prateada" width="100%" />
+  <img src="./assets/banner.jpg" alt="Ilustração em preto e branco de Soul Eater, com Maka e uma lua sorridente" width="100%" />
+</p>
+
+<h1 align="center">Orbit Launcher</h1>
+
+<p align="center">
+  Seu Minecraft. Seu estilo. Seu próximo mundo.
 </p>
 
 <p align="center">
-  <b>Interfaces, jogos e ideias que viram projetos.</b><br />
-  <sub>Interfaces, games, and ideas brought to life.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kazumhub-pixel/orbit-launcher">Orbit Launcher</a>
+  <a href="https://github.com/kazumhub-pixel/orbit-launcher/releases/latest"><b>Baixar para Windows</b></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/kazumhub-pixel/orbit-launcher/releases/latest">Download</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/kazumhub-pixel?tab=repositories">Projetos / Projects</a>
+  <a href="https://github.com/kazumhub-pixel/orbit-launcher">Código-fonte</a>
 </p>
 
 ---
 
-### Sobre / About
+Launcher de Minecraft com interface personalizável, organização de instâncias e gerenciamento de mods.
 
-Sou **n0xdev**. Estou construindo o **Orbit Launcher**, um launcher de Minecraft com uma interface própria, temas e personalização.
-
-<sub>I'm n0xdev. I'm building Orbit Launcher, a Minecraft launcher with a custom interface, themes, and personalization.</sub>
-
-### Em destaque / Featured
-
-**[Orbit Launcher](https://github.com/kazumhub-pixel/orbit-launcher)**
-
-Um lugar para organizar instâncias, mods e o seu próximo mundo.
-
-<sub>A place to organize instances, mods, and your next world.</sub>
-
-- Interface com fundos personalizados, imagens e vídeos.
-- Perfis, skins e gerenciamento de instâncias.
-- Seis idiomas e instalador para Windows.
-
-**[Baixar para Windows / Download for Windows →](https://github.com/kazumhub-pixel/orbit-launcher/releases/latest)**
-
-### No código / In the code
-
-`C++` &nbsp; `Qt` &nbsp; `Lua` &nbsp; `Git`
-
-<p align="center"><sub>n0xdev · build your own world</sub></p>
+- **Personalização:** temas e fundos com imagens ou vídeos.
+- **Biblioteca:** instâncias, mods, mundos e configurações em um só lugar.
+- **Perfis e skins:** opções para personalizar sua experiência.
+- **Idiomas:** português, inglês, espanhol, russo, chinês e árabe.
+- **Windows:** instalador e atualizações por versões oficiais.
